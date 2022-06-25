@@ -1,6 +1,5 @@
 import { DefaultUi, Player, Youtube } from '@vime/react';
 import { gql, useQuery } from '@apollo/client';
-
 import {
   CaretRight,
   DiscordLogo,
